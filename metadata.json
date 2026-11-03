@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Aaruha Groceries",
+  "description": "Fast 10-minute grocery delivery app with customer, admin, employee, and delivery partner portals, live GPS tracking, and complete store management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
